@@ -39,13 +39,21 @@ All done using Pandas and Matplotlib in a Jupyter Notebook.
 
 Some conclusions that I made:
 
--The season with the highest average number of bikes is fall, with 5,600 average bikes.
+-The season with the highest average number of bikes is fall, with around 5,600 average bikes.
+
 -The months with the highest average bike usage are June and September, with nearly 5,700 average bikes.
+
 -Registered users are more than four times the number of casual users.
+
 -There is only a small difference in bike usage between weekdays.
+
 -There is an average difference of about 1,000 bikes between holidays and non-holidays.
+
 -There isn’t much difference between workdays and non-workdays — the average gap is around 200 bikes.
+
 -As temperature increases, bike count also increases, peaking around 20–25°C, then slightly decreases on hotter days.
+
+
 
 
 Tools Used
